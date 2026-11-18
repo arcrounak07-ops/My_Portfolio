@@ -1,11 +1,16 @@
 # My Portfolio
 
-My personal portfolio website built with HTML and CSS.
+A simple, responsive personal portfolio website built with **HTML** and **CSS**.
 
-## What's Inside
-- Responsive single-page portfolio (`index.html`)
-- About, Skills, Projects, and Contact sections
+## Sections Included
+- **Hero & About:** Brief introduction and background
+- **Skills:** Core languages and web tools
+- **Projects:** Featured work and upcoming builds
+- **Contact:** Direct email and profile links
+
+## Tech Used
+- HTML5
+- CSS3
 
 ## Author
-- **Name:** Rounak
-- **GitHub:** [arcrounak07-ops](https://github.com/arcrounak07-ops)
+- **Rounak** — [arcrounak07-ops](https://github.com/arcrounak07-ops)
